@@ -10,7 +10,7 @@
   "customizations": {
     "vscode": {
       "settings": {
-        "python.defaultInterpreterPath": "/usr/local/bin/python"
+        "python.defaultInterpreterPath": "/home/codespace/.python/current/bin/python"
       },
       "extensions": [
         "ms-python.python",
