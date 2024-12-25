@@ -1,4 +1,4 @@
-# AI App Starter Kit: [App Name Here]
+# AI App Starter Kit: streamlit-story-app-starter
 
 Welcome to the AI App Starter Kit! This kit is designed to help you quickly build your own Streamlit apps with the help of a chat model, even if you're new to coding.
 
